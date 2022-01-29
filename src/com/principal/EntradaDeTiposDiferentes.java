@@ -1,7 +1,7 @@
 package com.principal;
 import java.util.Scanner;
 
-public class Solution3 {
+public class EntradaDeTiposDiferentes {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);

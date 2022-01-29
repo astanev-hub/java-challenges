@@ -2,7 +2,7 @@ package com.principal;
 import java.util.*;
 import java.text.*;
 
-public class Solution13 {
+public class FormatadorMonetario {
     
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

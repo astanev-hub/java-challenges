@@ -2,7 +2,7 @@ package com.principal;
 
 import java.io.*;
 
-public class Solution6 {
+public class Tabuada {
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
 

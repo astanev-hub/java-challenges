@@ -1,5 +1,5 @@
 package com.principal;
-public class Solution5 {
+public class Switch {
     public static void main(String[] args) {
         int month = 2;
         String monthString;

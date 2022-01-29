@@ -2,7 +2,7 @@ package com.principal;
 
 import java.util.Scanner;
 
-public class Solution2 {
+public class ConsistenciaDeNumeros {
 
     private static final Scanner scanner = new Scanner(System.in);
 

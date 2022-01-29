@@ -2,7 +2,7 @@ package com.principal;
 
 import java.util.Scanner;
 
-public class Solution8 {
+public class TiposDeDados {
 
 	  public static void main(String []args) {
 

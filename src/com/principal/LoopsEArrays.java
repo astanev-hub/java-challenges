@@ -2,7 +2,7 @@ package com.principal;
 
 import java.util.Scanner;
 
-public class Solution7 {
+public class LoopsEArrays {
     public static void main(String []argh){
         Scanner in = new Scanner(System.in);
         int t=in.nextInt();

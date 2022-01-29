@@ -2,7 +2,7 @@ package com.principal;
 
 import java.util.Scanner;
 
-public class Solution10 {
+public class InicializadorStatic {
 
 	 public static boolean flag = true;
 	 public static int b = 0;
@@ -19,6 +19,7 @@ public class Solution10 {
 			 flag = false;
 			 System.out.println("java.lang.Exception: Breadth and height must be positive");
 		 }
+		 sc.close();
 
 	 }
 

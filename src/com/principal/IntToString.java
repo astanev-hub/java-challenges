@@ -3,7 +3,7 @@ package com.principal;
 import java.security.Permission;
 import java.util.Scanner;
 
-public class Solution11 {
+public class IntToString {
 	 public static void main(String[] args) {
 
 	  DoNotTerminate.forbidExit();

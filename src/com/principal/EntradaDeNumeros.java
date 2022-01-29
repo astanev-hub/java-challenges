@@ -2,7 +2,7 @@ package com.principal;
 
 import java.util.*;
 
-public class Solution {
+public class EntradaDeNumeros {
 
     public static void main(String[] args) {
         @SuppressWarnings("resource")

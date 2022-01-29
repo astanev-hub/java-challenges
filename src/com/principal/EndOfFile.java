@@ -2,7 +2,7 @@ package com.principal;
 
 import java.util.Scanner;
 
-public class Solution9 {
+public class EndOfFile {
 
 	public static void main(String[] args) {
 

@@ -1,7 +1,7 @@
 package com.principal;
 import java.util.Scanner;
 
-public class Solution4 {
+public class PrintfStringENumeros {
 
     @SuppressWarnings("resource")
 	public static void main(String[] args) {
